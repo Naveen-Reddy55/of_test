@@ -2,11 +2,11 @@
 
 # Procedure
 
-![Flowchart](C:\Users\Naveen Reddy\Desktop\openfabric-test\flowchart.png)
+![Flowchart]('C:\Users\Naveen Reddy\Desktop\openfabric-test\flowchart.png')
 
 
 # Model Performance
-![Example](C:\Users\Naveen Reddy\Desktop\openfabric-test\example.png)
+![Example]('C:\Users\Naveen Reddy\Desktop\openfabric-test\example.png')
 
 
 # AI Junior Developer (Intern) Test 
